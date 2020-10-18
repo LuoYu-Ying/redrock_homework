@@ -4,7 +4,7 @@
 
 ## Usage
 
-#### 	This repository will be used to upload jobs
+#### 	This repository will be used to upload homework
 
 
 
