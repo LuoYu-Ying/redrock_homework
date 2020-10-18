@@ -1,7 +1,7 @@
 # **redrock_homework**
 
-## These sites will offer the homework of redrock.
+## This repository will be used to upload homework.
 
-### Time of these homework
+### Time of the homework
 
 1. 2020-10-18 Level4
