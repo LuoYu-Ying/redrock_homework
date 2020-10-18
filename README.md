@@ -1,7 +1,19 @@
 # **redrock_homework**
 
-## This repository will be used to upload homework.
 
-### Time of the homework
 
-1. 2020-10-18 Level4
+## *Usage*
+
+#### 		This repository will be used to upload jobs
+
+
+
+## *Homework_List*
+
+| TIME       | NAME | SITE |
+| ---------- | ---- | ---- |
+| 2020-10-18 | Lv1  |      |
+|            | Lv2  |      |
+|            | Lv3  |      |
+|            | Lv4  |      |
+
