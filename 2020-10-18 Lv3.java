@@ -36,7 +36,7 @@ public class Lv3 {
         elementDate[index] = obj;
     }
     
-    //TODO: judge index
+    //TODO: judge index 
     public Object get(int index) {
         return elementDate[index];
     }
